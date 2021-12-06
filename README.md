@@ -14,7 +14,7 @@ NEW PROJECT
 
 ***bold & italic***
 
-~~strike msg~~
+~~strike msg~~ 
 
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
